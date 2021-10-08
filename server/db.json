@@ -1,0 +1,22 @@
+{
+    "users": [
+        {
+            "id": "1",
+            "email": "abc@gmail.com",
+            "pass": "qwerty",
+            "type": "admin"
+        },
+        {
+            "id": "2",
+            "email": "def@gmail.com",
+            "pass": "qwerty",
+            "type": "user"
+        },
+        {
+            "id": "3",
+            "email": "ghi@gmail.com",
+            "pass": "qwerty",
+            "type": "user"
+        }
+    ]
+}
